@@ -1,4 +1,10 @@
-# todo-app
+# Todo App with Vue3
+
+## How it works
+
+You can add new todos to the list of todos by using the 'Add New' button.
+You can mark all todos as done with the 'Mark All' button.
+You can remove all todos from the list with the 'Remove All' button.
 
 ## Project setup
 ```
