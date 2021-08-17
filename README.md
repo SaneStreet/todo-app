@@ -2,9 +2,9 @@
 
 ## How it works
 
-You can add new todos to the list of todos by using the 'Add New' button.
-You can mark all todos as done with the 'Mark All' button.
-You can remove all todos from the list with the 'Remove All' button.
+You can add new todos to the list of todos by using the 'Add New' button.<br>
+You can mark all todos as done with the 'Mark All' button.<br>
+You can remove all todos from the list with the 'Remove All' button.<br>
 
 ## Project setup
 ```
